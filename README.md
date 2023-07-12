@@ -5,7 +5,7 @@
 
 ![Lucas Abrantes' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvabrantes&show_icons=true&theme=noctis_minimus)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvabrantes&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvabrantes&hide_progress=true)](https://kenziehub-lovat-tau.vercel.app/)
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,html,css,next)](https://skillicons.dev)
 
