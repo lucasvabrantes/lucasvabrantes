@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I`m Lucas Abrantes 👋
 
-<!--
-**lucasvabrantes/lucasvabrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   🔭 I’m currently studying Full Stack Development at Kenzie Academy
+-   🌱 I’m currently learning new things related to Programming, as well i develop my soft skills
+- 
 
-Here are some ideas to get you started:
+![Lucas Abrantes' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvabrantes&show_icons=true&theme=graywhite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,html,css,next)](https://skillicons.dev)
+
+
+
+<hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvabrantes&hide_progress=false)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-abrantes-8b8687150/)
+
