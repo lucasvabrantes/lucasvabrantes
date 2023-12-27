@@ -4,10 +4,6 @@
 -   🌱 I’m always learning new things related to Programming, and at the same time i develop my soft skills.
 -   🧠 Ability to work independently with minimal supervision, self-motivated individual and skilled in problem solving with an ability to learn quickly.
 
-![Lucas Abrantes' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvabrantes&show_icons=true&theme=noctis_minimus)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvabrantes)](https://github.com/anuraghazra/github-readme-stats)
-
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,html,css,next,py,django,nest,nodejs,postgres)](https://skillicons.dev)
 
 
