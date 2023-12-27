@@ -8,7 +8,7 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvabrantes)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,html,css,next,py,django,nest,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,html,css,next,py,django,nest,nodejs,postgres)](https://skillicons.dev)
 
 
 
