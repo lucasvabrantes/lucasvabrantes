@@ -1,6 +1,4 @@
 ### Hi there, I`m Lucas Abrantes 👋
-
--   🔭 I’m currently studying Full Stack Development at Kenzie Academy.
 -   🌱 I’m always learning new things related to Programming, and at the same time i develop my soft skills.
 -   🧠 Ability to work independently with minimal supervision, self-motivated individual and skilled in problem solving with an ability to learn quickly.
 
