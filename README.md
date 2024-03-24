@@ -4,7 +4,7 @@
 -   🧠 Ability to work independently with minimal supervision, self-motivated individual and skilled in problem solving with an ability to learn quickly.
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,html,css,next,py,django,nest,nodejs,postgres)](https://skillicons.dev)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvabrantes&theme=codeSTACKr_icons=true)
 
 
 
